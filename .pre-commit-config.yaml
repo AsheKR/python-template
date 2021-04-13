@@ -3,5 +3,3 @@ repos:
       rev: 1.3.0
       hooks:
           - id: prospector
-            additional_dependencies:
-                - prospector[with_everything]
